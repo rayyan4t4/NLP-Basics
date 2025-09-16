@@ -35,5 +35,3 @@ The goal is to clean and prepare text data (movie overviews, genres, etc.) for f
 - **pyspellchecker** (spelling correction)  
 
 ---
-
-## 📂 Project Structure
